@@ -7,7 +7,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrishud&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align="center">
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
