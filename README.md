@@ -4,7 +4,7 @@
   <img src="https://giffiles.alphacoders.com/206/206739.gif" style="width: 822px;">
 </picture>
 
-### UI/UX Designer, UX Researcher
+### UI/UX Designer, UX Researcher, Biologist
 
 ##
 
