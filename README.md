@@ -4,9 +4,9 @@
   <img src="https://giffiles.alphacoders.com/206/206739.gif" style="width: 822px;">
 </picture>
 
-<div style="justify-content: space-between; max-width: 822px">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrishud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img style="justify-content: space-between;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrishud&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=rodrishud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrishud&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!--
