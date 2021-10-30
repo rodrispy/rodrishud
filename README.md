@@ -4,10 +4,17 @@
   <img src="https://giffiles.alphacoders.com/206/206739.gif" style="width: 822px;">
 </picture>
 
+<div style="justify-content: space-between; width: 100%;">
+  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=rodrishud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrishud&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<!--
 <div style="justify-content: space-between;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrishud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrishud&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
 
 <div><br>
   <a href="https://instagram.com/rodrishud" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
