@@ -1,7 +1,7 @@
 # Hello, friend.
 
 <picture>
-  <img src="https://giffiles.alphacoders.com/206/206739.gif" style="width: 822px;">
+  <img src="https://giffiles.alphacoders.com/206/206739.gif" style="display: inline-block; width: calc(100% - 100px);">
 </picture>
 
 ### UI/UX Design and Research, Data Science, Bioinformatics
